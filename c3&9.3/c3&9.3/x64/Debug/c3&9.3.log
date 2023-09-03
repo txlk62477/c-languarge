@@ -1,0 +1,3 @@
+﻿  计算长度.c
+D:\c语言\c3&9.3\c3&9.3\计算长度.c(5,17): warning C4013: “strlen”未定义；假设外部返回 int
+  c3&9.3.vcxproj -> D:\c语言\c3&9.3\x64\Debug\c3&9.3.exe
