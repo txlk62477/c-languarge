@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34004.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c9&9.19&判断大小", "c9&9.19&判断大小\c9&9.19&判断大小.vcxproj", "{FAAC234C-B86C-48F3-B585-C938D81F1435}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAAC234C-B86C-48F3-B585-C938D81F1435}.Debug|x64.ActiveCfg = Debug|x64
+		{FAAC234C-B86C-48F3-B585-C938D81F1435}.Debug|x64.Build.0 = Debug|x64
+		{FAAC234C-B86C-48F3-B585-C938D81F1435}.Debug|x86.ActiveCfg = Debug|Win32
+		{FAAC234C-B86C-48F3-B585-C938D81F1435}.Debug|x86.Build.0 = Debug|Win32
+		{FAAC234C-B86C-48F3-B585-C938D81F1435}.Release|x64.ActiveCfg = Release|x64
+		{FAAC234C-B86C-48F3-B585-C938D81F1435}.Release|x64.Build.0 = Release|x64
+		{FAAC234C-B86C-48F3-B585-C938D81F1435}.Release|x86.ActiveCfg = Release|Win32
+		{FAAC234C-B86C-48F3-B585-C938D81F1435}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3DA3E72-3F9A-456E-9EE5-A1F9D912E477}
+	EndGlobalSection
+EndGlobal
