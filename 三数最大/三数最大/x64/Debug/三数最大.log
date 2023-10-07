@@ -1,0 +1,3 @@
+﻿  csdn.c
+源.obj : error LNK2005: main 已经在 csdn.obj 中定义
+D:\c语言\三数最大\x64\Debug\三数最大.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
